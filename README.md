@@ -1,1 +1,1 @@
-React Native Basic to Advanced for learning
+React Native Basic to Advanced for learning for myself
